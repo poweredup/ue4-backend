@@ -1,12 +1,7 @@
-# Unreal Engine 4 Backend for TokenPlay Games
-Java based backend system for Epic Games Unreal Engine 4.
-
-Welcome to the first ever feature complete release of a Java based backend system for [Unreal Engine 4](https://www.unrealengine.com/en-US/what-is-unreal-engine-4). We are very pleased to release this source code under the Apache2 license. This release has been in the works for many years and began with the development of our sister company's UE4 based Heavy Gear Assault. Our backend system was developed from the ground up and supports many technologies which TokenPlay has been fully adopting for a feature complete release of our backend for UE4 supporting TokenPlay as well as support for Steam and other distribution systems hopefully encouraging indie developers worldwide to take full advantage of this amazing release!
+# Unreal Engine 4 Backend for TurboPlay Games
+Java based backend system for Epic Games Unreal Engine 4 originally released by BlocPlay Entertainment.
 
 # TL;DR
-
-# Demo
-Look no further than our Steam launch of [Heavy Gear Assault](https://store.steampowered.com/app/416020/Heavy_Gear_Assault/) to experience our backend demo in production by Stompy Bot Productions!
 
 # Tech Stack
 - [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html): Install JDK 8. Eclipse.
